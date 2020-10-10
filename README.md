@@ -8,7 +8,11 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://novatorem-six-plum.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+novatorem.ntanwir10.vercel.app
+
+[![Spotify](https://ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
+
+
 
 ### Let's connect:
 
