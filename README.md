@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]("https://novatorem.ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
+[![Spotify]("https://nauman10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
 
 ### Let's connect:
 
