@@ -8,8 +8,6 @@
 
 ### Spotify Playing 🎧
 
-novatorem.ntanwir10.vercel.app
-
 [![Spotify](https://ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
 
 
