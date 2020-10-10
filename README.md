@@ -40,12 +40,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ntanwir10&show_icons=true&theme=prussian)
+  
+  <img align="left" alt="nauman's GitHub Stats" src="https://github-readme-stats.ntanwir10.vercel.app/api?username=ntanwir10&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Top Languages</summary>
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntanwir10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
