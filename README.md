@@ -6,6 +6,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Eat, Code, Playstation - REPEAT
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
@@ -17,6 +19,15 @@
 
 <br />
 <br />
+
+---
+
+<details>
+  <summary>:zap:Top languages</summary>
+  
+  <img align="left" alt="Top languages" src="https://github-readme-stats.ntanwir10.vercel.app/api/top-langs/?username=ntanwir10&layout=compact" />
+
+</details>
 
 ---
 
@@ -46,13 +57,6 @@
   <summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="nauman's GitHub Stats" src="https://github-readme-stats.ntanwir10.vercel.app/api?username=ntanwir10&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap:Top languages</summary>
-  
-  <img align="left" alt="Top languages" src="https://github-readme-stats.ntanwir10.vercel.app/api/top-langs/?username=ntanwir10&layout=compact&langs_count=10" />
 
 </details>
 
