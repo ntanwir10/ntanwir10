@@ -6,6 +6,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Eat, Code, Playstation - REPEAT
 
+### Spotify Playing 🎧
+
+[![Spotify](novatorem.ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
+
+
 ### Let's connect:
 
 [<img align="left" alt="naumantanwir.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
