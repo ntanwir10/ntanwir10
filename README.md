@@ -54,9 +54,3 @@
 
 [website]: https://naumantanwir.me/
 [linkedin]: https://www.linkedin.com/in/naumantanwir/
-
-<style>
-    .markdown-body img[align=left] {
-    padding-right: 0px !important;
-}
-</style>
