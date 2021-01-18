@@ -8,10 +8,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.ntanwir10.vercel.app/api/spotify)](https://open.spotify.com/user/nauman10)
-
 ### Let's connect:
 
 [<img align="left" alt="naumantanwir.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
