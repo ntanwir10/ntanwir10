@@ -3,10 +3,8 @@
 ## I'm a Nerd, Geek and a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and become full stack developer
 - ⚡ Eat, Code, Playstation - REPEAT
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Let's connect:
 
