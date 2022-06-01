@@ -8,7 +8,7 @@
 
 ### Let's connect:
 
-[<img align="left" alt="naumantanwir.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="[[naumantanwir.me](https://nauman-tanwir-portfolio.netlify.app/)](https://nauman-tanwir-portfolio.netlify.app/)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -45,5 +45,5 @@
 
 </details>
 
-[website]: https://naumantanwir.me/
+[website]: https://nauman-tanwir-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/naumantanwir/
