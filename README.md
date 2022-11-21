@@ -3,7 +3,7 @@
 ## I'm a Nerd, Geek and a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects and become full stack developer
+- 🥅 2022 Goals: Contribute more to Open Source projects and study cloud services with AWS
 - ⚡ Eat, Code, Playstation - REPEAT
 
 ### Let's connect:
