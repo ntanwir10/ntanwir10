@@ -1,49 +1,72 @@
-### Hi there, I'm Nauman Tanwir - [website]👋
+# Hi, I'm Nauman Tanwir - <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-## I'm a Nerd, Geek and a Developer!!
+I'm a Full Stack Web Developer. I Spend most of time coding outstanding projects and upskilling myself in the field of cloud services with AWS and attempting to quench my thirst of learning about ML.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects and study cloud services with AWS
-- ⚡ Eat, Code, Playstation - REPEAT
+- 🥅 2023 Goals: Contribute more to Open Source projects and study cloud services with AWS
+- ⚡ Eat, Code, Coffee - REPEAT
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: ntanwir10@gmail.com.
 
-### Let's connect:
+## Let's connect
 
-[<img align="left" alt="[[naumantanwir.me](https://nauman-tanwir-portfolio.netlify.app/)](https://nauman-tanwir-portfolio.netlify.app/)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Nauman_Tanwir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/) [![Mail Badge](https://img.shields.io/badge/-ntanwir10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com)
+
+## Primary technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
+[![Next.js Badge](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js Badge](https://img.shields.io/badge/-Expressjs-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-011E2B?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=011E2B)](#)
+[![D3.js Badge](https://img.shields.io/badge/-D3.js-F57F50?style=for-the-badge&labelColor=white&logo=D3.js&logoColor=F57F50)](#)
+
+## Secondary technologies
+
+<img align="left" alt="SQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png"/>
+<img align="left" alt="Git" width="60px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="Material-UI" width="60px" src="https://mui.com/static/logo.png"/>
+<img align="left" alt="Tailwind CSS" width="150px" height="70px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg"/>
+<img align="left" alt="Webpack" width="150px" height="70px" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png"/>
+
 
 <br />
 <br />
-
----
-
-### Programming and Scripting languages
-
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" padding-right="0px"/> 
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" padding-right="0px" />
-<img align="left" alt="Sass" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"padding-right="0px" />
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" padding-right="0px" />
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" padding-right="0px" />
-<img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" padding-right="0px" />
-<img align="left" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" padding-right="0px" />
-<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" padding-right="0px" />
-<img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" padding-right="0px" />
-<img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" padding-right="0px" />
-<img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" padding-right="0px" />
-<img align="left" alt="webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" padding-right="0px" />
-<img align="left" width="49px" vertical-align="middle" alt="charts" src="https://camo.githubusercontent.com/ca884126d1d74829f36c8fa2e6947d8a411aed1f/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" padding-right="0px" />
-
-<br />
 <br />
 <br />
 
----
+#### Bizness
+
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :email: ntanwir10@gmail.com
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ntanwir10.visitor-badge)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <img align="left" alt="nauman's GitHub Stats" src="https://github-readme-stats.ntanwir10.vercel.app/api?username=ntanwir10&show_icons=true&hide_border=true" />
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Nauman's github stats](https://github-readme-stats.vercel.app/api?username=ntanwir10&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
-[website]: https://nauman-tanwir-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/naumantanwir/
