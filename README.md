@@ -1,6 +1,6 @@
 # Hi, I'm Nauman Tanwir - <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a Full Stack Web Developer. I Spend most of time coding outstanding projects and upskilling myself in the field of cloud services with AWS and attempting to quench my thirst of learning about ML.
+I'm a Full Stack Web Developer. I Spend most of the time coding outstanding projects and upskilling myself in the field of cloud services with AWS and attempting to quench my thirst of learning about ML
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and study cloud services with AWS
@@ -53,20 +53,9 @@ I'm a Full Stack Web Developer. I Spend most of time coding outstanding projects
 </summary>
 <br >
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
-<br >
 
 #### Github Stats
 
 ![Nauman's github stats](https://github-readme-stats.vercel.app/api?username=ntanwir10&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/naumantanwir/
