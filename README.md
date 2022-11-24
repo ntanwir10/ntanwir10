@@ -51,14 +51,17 @@ I'm a Full Stack Web Developer. I Spend most of time coding outstanding projects
 <summary>
   More stuff about me
 </summary>
-
 <br >
-
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
+
+<br >
 
 #### Github Stats
 
