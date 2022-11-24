@@ -40,7 +40,7 @@ I'm a Full Stack Web Developer. I Spend most of time coding outstanding projects
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ntanwir10/ntanwir10/blob/master/resume/naumantanwir.pdf)
 - :email: ntanwir10@gmail.com
 
 #### Profile Visits
