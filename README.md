@@ -38,12 +38,6 @@ I'm a Full Stack Web Developer. I Spend most of the time coding outstanding proj
 <br />
 <br />
 
-#### Contact me @
-
- :email: ntanwir10@gmail.com
- 
- 🔗 : https://www.linkedin.com/in/naumantanwir/ 
-
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ntanwir10.visitor-badge)
