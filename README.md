@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer. I Spend most of the time coding outstanding projects and upskilling myself in the field of cloud services with AWS and attempting to quench my thirst for learning ML
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects and study cloud services with AWS
+- 🥅 2024 Goals: Contribute more to Open Source projects and study cloud services
 - ⚡ Eat, Code, Coffee - REPEAT
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: ntanwir10@gmail.com.
