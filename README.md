@@ -2,12 +2,6 @@
 
 As a passionate Full Stack Web Developer specializing in the MERN stack, I am dedicated to crafting exceptional projects that redefine industry standards. My journey is fueled by a relentless pursuit of improvement, with a particular focus on mastering DevOps and leveraging cloud services with AWS, Docker, and Kubernetes. With an unquenchable curiosity for cloud infrastructure as code (IaC), I am fully immersing myself in Terraform and Pulumi, constantly striving for innovation and excellence.
 
-    - 🌱 I’m currently learning everything 🤣
-    - 🥅 Goals: Contribute more to Open Source projects and learn and work deep in Cloud  and IaC
-    - ⚡ Eat, Code, Coffee - REPEAT
-    - :computer: Most used line of code `git commit -m "Initial Commit"`
-    - 📫 How to reach me: ntanwir10@gmail.com.
-
 ## Let's connect
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/) [![Gmail](https://img.shields.io/badge/Gmail-ntanwir10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com)
