@@ -10,9 +10,7 @@ As a passionate Full Stack Web Developer specializing in the MERN stack, I am de
 
 ## Let's connect
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-ntanwir10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/) [![Gmail](https://img.shields.io/badge/Gmail-ntanwir10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com)
 
 ## Front-End
 
@@ -57,7 +55,7 @@ As a passionate Full Stack Web Developer specializing in the MERN stack, I am de
 
 ## Testing
 
-[Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
