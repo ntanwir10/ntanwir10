@@ -1,10 +1,15 @@
 # Hi, I'm Nauman Tanwir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a Full Stack & DevOps Engineer with 7+ years of experience building high-performance web applications and secure cloud infrastructure. I specialize in scalable systems using React, Node.js, Python (FastAPI), and AWS with Terraform. My expertise spans responsive frontend development, optimized backend APIs, microservices architecture, and automated CI/CD pipelines with Docker and Kubernetes. I've reduced API response times by 35% and implemented secure, self-healing production deployments. Whether you need end-to-end application development, DevOps transformation, or cloud-native solutions, I deliver fast results without compromising quality.
+I'm a Senior Software Engineer with over 7 years of experience building high-performance web applications and secure cloud infrastructure. I specialize in scalable systems using React, Node.js, Python (FastAPI), and AWS with Terraform. My expertise spans responsive frontend development, optimized backend APIs, microservices architecture, and automated CI/CD pipelines with Docker and Kubernetes.
+
+I also explore developer tools and AI-driven workflows, including GuardScan CLI and ThoughtTap, sharing practical insights from real-world projects and cloud-native deployments.
 
 ## Let's connect
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/) [![Gmail](https://img.shields.io/badge/Gmail-ntanwir10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumantanwir/) [![Gmail](https://img.shields.io/badge/Gmail-ntanwir10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntanwir10@gmail.com) 
+<a href="www.buymeacoffee.com/ntanwir10" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="174">
+</a>
 
 ## Back-End
 
