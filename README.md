@@ -10,6 +10,15 @@ I care about how systems behave after they ship. Reliability, observability, sec
 
 ---
 
+## Connect
+
+- LinkedIn: <https://linkedin.com/in/naumantanwir>  
+- Portfolio: <https://naumantanwir-dev.vercel.app>  
+- Email: <ntanwir10@gmail.com>
+- Buy Me A Coffee: <https://buymeacoffee.com/ntanwir10>
+
+---
+
 ## What I Do
 
 - Design backend and service architectures for scalable systems  
@@ -81,12 +90,3 @@ These are smaller or exploratory systems that focus on specific engineering prob
 - Make system behaviour observable before optimizing it  
 - Prefer simple, explicit architectures over clever abstractions  
 - Optimize for long-term ownership, not short-term delivery  
-
----
-
-## Connect
-
-- LinkedIn: <https://linkedin.com/in/naumantanwir>  
-- Portfolio: <https://naumantanwir-dev.vercel.app>  
-- Email: <ntanwir10@gmail.com>
-- Buy Me A Coffee: <https://buymeacoffee.com/ntanwir10>
