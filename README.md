@@ -53,7 +53,7 @@ IAM · KMS · Secrets Manager · Monitoring · Alerting · Incident response
 
 - **GuardScan**  
   Local-first security scanning and AI code review CLI for secure developer workflows  
-  <https://guardscancli.com>
+  <https://guardscancli.vercel.app>
 
 - **CodeSage**  
   Backend-heavy code discovery platform built with Python and FastAPI  
