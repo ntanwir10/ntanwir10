@@ -1,0 +1,6 @@
+# README cards, see https://github.com/pedrocatalao/github-cool-readme
+user: ntanwir10
+
+# The default set, with repos in place of contributions: that card lists merged PRs to
+# other people's public repos, and there are none yet.
+show: [summary, languages, repos, weekly]
