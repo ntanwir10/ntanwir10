@@ -9,6 +9,6 @@ cards:
   about:
     headline: "Hi, I'm *Nauman*"   # longer headlines get cut off
     facts:
-      Focus: Backend, cloud & platform roles
-      Stack: Python, Node.js, AWS, Terraform
-      Building: GuardScan CLI
+      Focus: Backend & Platform Engineering
+      Stack: AWS, Node.js, TypeScript, Python
+      Certified: AWS Solutions Architect
