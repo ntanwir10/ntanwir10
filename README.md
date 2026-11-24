@@ -40,20 +40,6 @@ I started in front-end (React, Redux) and still step in when needed, but backend
 
 ---
 
-## Experience
-
-| Role | Company | Dates |
-| --- | --- | --- |
-| Independent Software Engineer · Backend, Platform & Developer Tools | Self-employed | Oct 2024 – Present |
-| Lead Web Consultant (Backend Infra Focused) | Urbane Minds | Mar 2020 – Apr 2024 |
-| Front-End Developer | Koch Business Solutions India | Apr 2019 – Mar 2020 |
-| Web UI Developer | Globant | Aug 2017 – Mar 2019 |
-| Web Developer | Ecanvasser | Jun 2016 – Dec 2016 |
-
-At Urbane Minds I led architecture and delivery across 5+ production systems and mentored 8–10 engineers, while reducing critical API and database latency by ~25–35%, AWS costs by ~35%, manual deployment effort by 30–40%, and incident recovery time by ~30%.
-
----
-
 ## Technical Stack
 
 ```python
@@ -88,20 +74,10 @@ stack = {
 | [**CodeSage**](https://codesage-docs.vercel.app) | Python, FastAPI, and Algolia code discovery platform with repository ingestion, indexed search, and MCP integration for AI development tools |
 | [**GuardScan**](https://guardscancli.vercel.app) | Open-source, local-first security scanning and AI code-review CLI built in TypeScript/Node.js |
 | [**ShopperSprint**](https://shoppersprint.com) | Real-time product comparison app built with React, Node.js, PostgreSQL, Redis, and WebSockets |
-| [**AI-Driven Distributed Anomaly Detection**](https://github.com/ntanwir10/AI-Anamoly-Detector) | Distributed anomaly detection using Redis Bloom and Redis Gears |
 | [**Real-time AI Dungeon Master**](https://github.com/ntanwir10/realtime_ai_dungeon_master) | Real-time, stateful system coordinating AI-driven interactions with low-latency event handling |
-
-## Additional Systems & Experiments
-
-These are smaller or exploratory systems that focus on specific engineering problems rather than full platforms.
-
-| Project | What it is |
-| --- | --- |
-| [**JournalAPI**](https://github.com/ntanwir10/python-journal-api) | FastAPI and PostgreSQL REST API with JWT auth, Alembic migrations, and a pytest suite, deployed on AWS ECS Fargate with RDS |
-| [**AWS Cloud Automation**](https://github.com/ntanwir10/aws_cloud_automation_nginx) | Terraform deployment of load-balanced NGINX on EC2 behind an Application Load Balancer across availability zones |
+| [**AI-Driven Distributed Anomaly Detection**](https://github.com/ntanwir10/AI-Anamoly-Detector) | Distributed anomaly detection using Redis Bloom and Redis Gears |
 | [**AWS Cloud Uploader CLI**](https://github.com/ntanwir10/Bash-CloudUploaderCLI_AWS) | Shell-based AWS automation tool for secure object uploads and basic lifecycle management |
 | [**localLedger**](https://github.com/ntanwir10/localLedger) | Cloud-native financial tracking application for small businesses and individuals, offering real-time expense tracking, automated reporting, and secure data management on Azure. |
-| [**Azure VM Deployment**](https://github.com/ntanwir10/Azure_ARM_VM) | ARM template and PowerShell automation that deploys Azure VMs, with an optional GitHub Actions pipeline |
 
 ---
 
