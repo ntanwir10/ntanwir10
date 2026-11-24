@@ -1,6 +1,14 @@
 # README cards, see https://github.com/pedrocatalao/github-cool-readme
 user: ntanwir10
 
-# The default set, with repos in place of contributions: that card lists merged PRs to
-# other people's public repos, and there are none yet.
-show: [summary, languages, repos, weekly]
+# In README order. contributions is left out: it lists merged PRs to other people's
+# public repos, and there are none yet.
+show: [about, summary, languages, repos, weekly, streaks]
+
+cards:
+  about:
+    headline: "Hi, I'm *Nauman*"   # longer headlines get cut off
+    facts:
+      Focus: Backend, cloud & platform roles
+      Stack: Python, Node.js, AWS, Terraform
+      Building: GuardScan CLI
